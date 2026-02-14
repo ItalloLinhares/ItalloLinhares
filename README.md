@@ -4,8 +4,6 @@
 
 # 👋 Hello! I'm Itallo Linhares
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ### 🚀 About Me
 - 🎓 Graduated in Information Systems from Santa Cecília University (UNISANTA)
 - 🎓 Studying Computer Engineering at the Virtual University of the State of São Paulo (UNIVESP)
