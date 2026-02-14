@@ -8,7 +8,7 @@
 - 🎓 Graduated in Information Systems from Santa Cecília University (UNISANTA)
 - 🎓 Studying Computer Engineering at the Virtual University of the State of São Paulo (UNIVESP)
 - 🎓 Studying a specialization course in Data Science at the State University of Campinas (UNICAMP)
-- 🌱 Currently learning: **PySpark**, **Terraform**, **ML for Medical Imaging**
+- 🌱 Currently learning: **PySpark**, **Terraform**
 
 ---
 
